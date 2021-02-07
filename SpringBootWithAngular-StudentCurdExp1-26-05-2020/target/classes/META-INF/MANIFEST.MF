@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootWithAngular-StudentCurdExp1-26-05-2020
+Implementation-Version: 2.0
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
